@@ -1,0 +1,13 @@
+The eight properties in export.csv are
+
+Eat - atomization energy (eV/atom)
+Xc - crystallization tendency (%)
+Egc - band gap chain (eV)
+Egb - band gap bulk (eV)
+Eea - electron affinity (eV)
+Ei - Ionization energy (eV)
+nc - refractive index DFT (1)
+eps - dielectric constant DFT (1)
+
+
+
